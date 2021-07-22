@@ -1,3 +1,5 @@
+//Example: alt.addGxtText("GXT_STRING", "Your text");
+
 alt.addGxtText("PM_SCR_INF", "Információk");
 alt.addGxtText("PM_SCR_SET", "Beállítások");
 alt.addGxtText("PM_SCR_MAP", "Térkép");
