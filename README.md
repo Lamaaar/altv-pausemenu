@@ -1,2 +1,2 @@
 # altv-pausemenu
-With that system you can change the pausemenu's GXT strings (e.g for translation)
+With this system you can change the pausemenu's GXT strings (e.g for translation)
